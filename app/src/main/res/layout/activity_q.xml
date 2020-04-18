@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    tools:context=".QA">
+
+    <SearchView
+        android:id="@+id/search_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:autofillHints="#FFFFFF"
+        android:background="@drawable/search_bar"
+        android:queryHint="Find Here"></SearchView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/chatrecycler"
+        android:layout_above="@id/send"
+        android:layout_below="@+id/search_bar"></androidx.recyclerview.widget.RecyclerView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:id="@+id/send"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:weightSum="1">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight=".70"
+            android:textColor="#FF3E00"
+            android:textColorHint="#893C1B"
+            android:textSize="18dp"
+            android:id="@+id/sendchat"
+            android:gravity="center"
+            android:background="@drawable/editext_design"
+            android:hint="Ask Here"
+            android:paddingBottom="3dp" />
+
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:id="@+id/Send"
+            android:layout_gravity="center"
+            android:layout_weight=".30"
+            android:background="@drawable/sent"
+            android:foregroundGravity="center"
+            android:padding="13dp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

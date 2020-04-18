@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+        <com.daasuu.bl.BubbleLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:padding="8dp"
+            android:layout_centerHorizontal="true"
+            app:bl_arrowDirection="top"
+            app:bl_arrowHeight="10dp"
+            app:bl_arrowPosition="150dp"
+            app:bl_arrowWidth="8dp"
+            app:bl_bubbleColor="#FFFFFF"
+            app:bl_cornersRadius="12dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textchat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:textSize="17dp"
+                    android:gravity="center"
+                    android:layout_marginLeft="4dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="4dp"
+                    android:hint="These App Is For Solving your Queries\nRelated To Covid-19"
+                    android:textColor="#FF3C00" />
+
+            </LinearLayout>
+
+        </com.daasuu.bl.BubbleLayout>
+
+
+
+</RelativeLayout>

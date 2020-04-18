@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#000"
+    android:layout_height="match_parent"
+    tools:context=".VideoList">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:visibility="visible"
+            android:id="@+id/nextl1"
+            android:layout_height="wrap_content">
+        <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:videoId="I-Yd-_XIWJg"
+            app:autoPlay="true"
+            app:showFullScreenButton="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                 android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Next"
+                android:onClick="next1"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:background="@drawable/button_design_video"
+                android:layout_height="wrap_content"></Button>
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:id="@+id/nextl2"
+            android:layout_height="wrap_content">
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="5DGwOJXSxqg"
+                app:autoPlay="true"
+                app:showFullScreenButton="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Next"
+                android:onClick="next2"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:background="@drawable/button_design_video"
+                android:layout_height="wrap_content"></Button>
+
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:id="@+id/nextl3"
+            android:layout_height="wrap_content">
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="WRnPOSoljX0"
+                app:autoPlay="true"
+                app:showFullScreenButton="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Next"
+                android:onClick="next3"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:background="@drawable/button_design_video"
+                android:layout_height="wrap_content"></Button>
+
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:id="@+id/nextl4"
+            android:layout_height="wrap_content">
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="QjlQRTKuZxE"
+                app:autoPlay="true"
+                app:showFullScreenButton="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Next"
+                android:onClick="next4"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:background="@drawable/button_design_video"
+                android:layout_height="wrap_content"></Button>
+
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:id="@+id/nextl5"
+            android:layout_height="wrap_content">
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="c5Qoxg88oGw"
+                app:autoPlay="true"
+                app:showFullScreenButton="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Next"
+                android:onClick="next5"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:background="@drawable/button_design_video"
+                android:layout_height="wrap_content"></Button>
+
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:id="@+id/nextl6"
+            android:layout_height="wrap_content">
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="elWIPbDfLA0"
+                app:autoPlay="true"
+                app:showFullScreenButton="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Next"
+                android:onClick="next6"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:background="@drawable/button_design_video"
+                android:layout_height="wrap_content"></Button>
+
+        </LinearLayout>
+
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:id="@+id/nextl7"
+            android:layout_height="wrap_content">
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="Ma07a6svw5w"
+                app:autoPlay="true"
+                app:showFullScreenButton="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:text="Next"
+                android:onClick="next7"
+                android:id="@+id/pre"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:background="@drawable/button_design_video"
+                android:layout_height="wrap_content"></Button>
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+    </ScrollView>
+</RelativeLayout>

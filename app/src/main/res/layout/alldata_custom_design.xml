@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="2dp"
+    app:cardBackgroundColor="#000"
+    app:cardElevation="14dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:hint="Country :- "
+            android:textColor="#FF9C00"
+            android:textColorHint="#FF9C00"
+            android:textSize="25dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:id="@+id/Country"
+            android:layout_height="wrap_content"></TextView>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/newconfirmed"
+            android:textColor="#FF9C00"
+            android:layout_marginLeft="10dp"
+            android:textColorHint="#FF9C00"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/Country"
+            android:hint="New Confirmed :- "
+            android:layout_height="wrap_content"></TextView>
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/totalconfirmed"
+            android:textColor="#FF9C00"
+            android:textColorHint="#FF9C00"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/newconfirmed"
+            android:hint="Total Confirmed :- "
+            android:layout_height="wrap_content"></TextView>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/newdeath"
+            android:layout_marginLeft="10dp"
+            android:textColorHint="#FF9C00"
+            android:textColor="#FF9C00"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/totalconfirmed"
+            android:hint="New Death :- "
+            android:layout_height="wrap_content"></TextView>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/totaldeath"
+            android:layout_marginLeft="10dp"
+            android:textColorHint="#FF9C00"
+            android:layout_marginTop="20dp"
+            android:textColor="#FF9C00"
+            android:layout_below="@id/newdeath"
+            android:hint="Total Death :- "
+            android:layout_height="wrap_content"></TextView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/newrecoverd"
+            android:layout_marginLeft="10dp"
+            android:textColorHint="#FF9C00"
+            android:textColor="#FF9C00"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/totaldeath"
+            android:hint="New Recovered :- "
+            android:layout_height="wrap_content"></TextView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/totalrecovered"
+            android:layout_marginLeft="10dp"
+            android:textColorHint="#FF9C00"
+            android:textColor="#FF9C00"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/newrecoverd"
+            android:hint="Total Recovered :- "
+            android:layout_height="wrap_content"></TextView>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/date"
+            android:layout_marginLeft="10dp"
+            android:textColorHint="#FF9C00"
+            android:layout_alignParentEnd="true"
+            android:textColor="#FF9C00"
+            android:textStyle="bold"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/totalrecovered"
+            android:hint="Date :- "
+            android:layout_height="wrap_content"></TextView>
+
+
+
+
+    </RelativeLayout>
+
+
+
+</androidx.cardview.widget.CardView>
