@@ -9,7 +9,7 @@ This Android application help to overcome the problem related to covid-19
 
 Video Preview Available at Youtube
 
-<a href="https://www.youtube.com/watch?v=ACMOGsYvUno" target="_blank">Solution Tap Video</a>
+<a href="https://www.youtube.com/watch?v=g8Cm0PiNvcQ" target="_blank">Solution Tap Video</a>
 
 Apk Link
 <a href="https://drive.google.com/file/d/1IESEbydlgQbMmfdxjlMlgeCm7EPftPPl/view?usp=sharing" target="_blank">Solution Tap Apk</a>
