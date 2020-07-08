@@ -1,6 +1,10 @@
 # SolutionTap
 Hackathon Project hackOn
 
+This is an open source project made under the emergence of Covid-19 pandemic as the solution and one of the solution in Hackon Hackathon.
+
+
+
 This Android application help to overcome the problem related to covid-19
 
 
@@ -13,4 +17,7 @@ Video Preview Available at Youtube
 
 Apk Link
 <a href="https://drive.google.com/file/d/1IESEbydlgQbMmfdxjlMlgeCm7EPftPPl/view?usp=sharing" target="_blank">Solution Tap Apk</a>
+
+
+
 
