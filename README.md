@@ -16,6 +16,17 @@ Modules
 * Display Videos 
 
 
+## Screen Shots
+
+![r3](https://user-images.githubusercontent.com/61186175/86918122-d80e3200-c143-11ea-9a0b-5b5e4afa954a.png)
+![r4](https://user-images.githubusercontent.com/61186175/86918128-d93f5f00-c143-11ea-932c-70576cb52005.png)
+![r5](https://user-images.githubusercontent.com/61186175/86918130-d9d7f580-c143-11ea-9e5d-d0125b2b762f.png)
+![r6](https://user-images.githubusercontent.com/61186175/86918131-da708c00-c143-11ea-8915-7a87202a139f.png)
+![r1](https://user-images.githubusercontent.com/61186175/86918133-da708c00-c143-11ea-9f77-ea9583917a87.png)
+![r2](https://user-images.githubusercontent.com/61186175/86918134-db092280-c143-11ea-9ec9-d72b027b1104.png)
+
+
+
 
 
 
@@ -30,12 +41,6 @@ This Android application help to overcome the problem related to covid-19
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/61186175/79628273-405d0100-815d-11ea-8294-db48f5b88181.gif)
 
 
-Video Preview Available at Youtube
-
-<a href="https://www.youtube.com/watch?v=g8Cm0PiNvcQ" target="_blank">Solution Tap Video</a>
-
-Apk Link
-<a href="https://drive.google.com/file/d/1IESEbydlgQbMmfdxjlMlgeCm7EPftPPl/view?usp=sharing" target="_blank">Solution Tap Apk</a>
 
 
 
