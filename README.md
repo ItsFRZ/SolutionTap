@@ -41,10 +41,12 @@ Apk Link
 
 Follow me on
 
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/ItsFRZ/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://www.instagram.com/itsfaraz_sheikh/)
 
-![]()
 [![GitHub followers](https://img.shields.io/github/followers/ItsFRZ?style=social)](https://github.com/ItsFRZ?tab=followers)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Its_FRZ?style=social)](https://twitter.com/Its_FRZ)
+
 
 
 
