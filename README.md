@@ -38,7 +38,8 @@ Preview Video available at [![YouTube Video Likes](https://img.shields.io/youtub
 This Android application help to overcome the problem related to covid-19
 
 
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/61186175/79628273-405d0100-815d-11ea-8294-db48f5b88181.gif)
+![st](https://user-images.githubusercontent.com/61186175/87152699-ce1b3900-c2d3-11ea-8257-07f03c4423aa.gif)
+
 
 
 
