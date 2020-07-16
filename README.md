@@ -4,6 +4,8 @@
 
 This is an open source project made under the emergence of Covid-19 pandemic as the solution and one of the solution in Hackon Hackathon.
 
+Note :- For detailed information visit my medium page [![Medium Badge](https://img.shields.io/badge/-@ItsFRZ-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@faraz.ar.sheikh/)](https://medium.com/@faraz.ar.sheikh/)
+
 Technologies/Techstack Used
 * Firebase
 * Java 
