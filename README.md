@@ -1,10 +1,13 @@
 # SolutionTap
 
+<p align="center">
+ <img src="https://visitor-badge.feriirawann.repl.co?username=ItsFRZ&repo=SolutionTap" alt="Visitor Badge" />
+</p>
 
 
 This is an open source project made under the emergence of Covid-19 pandemic as the solution and one of the solution in Hackon Hackathon.
 
-Note :- For detailed information visit my medium page [![Medium Badge](https://img.shields.io/badge/-@ItsFRZ-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@faraz.ar.sheikh/)](https://medium.com/@faraz.ar.sheikh/)
+Note :- For detailed information visit my medium page [![Medium Badge](https://img.shields.io/badge/-@ItsFRZ-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=[https://medium.com/@itsfrz/](https://medium.com/@itsfrz/covid-19-hackathon-android-app-4345678adeaf))](https://medium.com/@itsfrz/covid-19-hackathon-android-app-4345678adeaf)
 
 Technologies/Techstack Used
 * Firebase
